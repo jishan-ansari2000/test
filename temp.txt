@@ -1,0 +1,13 @@
+./
+../
+.git/
+about.html
+index.html
+temp.txt
+about.html
+index.html
+temp.txt
+
+question 2:-
+
+
